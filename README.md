@@ -53,6 +53,7 @@ Este es el modpack de Worldcraft 2
 - Architectury
 - Cloth Config
 ### Mods opcionales (Muy recomendados)
+- Extreme sound muffler
 - Mouse Tweaks
 - EmoteCraft
 - AppleSkin
