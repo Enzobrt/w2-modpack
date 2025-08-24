@@ -1,8 +1,9 @@
 # w2-modpack
 Este es el modpack de Worldcraft 2
 ---
-Versión: 1.18.2 Forge  
-Semilla: Worldcraft: season 2
+**Nombre oficial:** Worldcraft: La secuela  
+**Versión:** 1.18.2 Forge  
+**Semilla:** Worldcraft: season 2
 
 ## Mods
 - Flash's NPC
