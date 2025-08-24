@@ -1,7 +1,7 @@
 # w2-modpack
 Este es el modpack de Worldcraft 2
 ---
-Versión: 1.18.2 Forge\n
+Versión: 1.18.2 Forge  
 Semilla: Worldcraft: season 2
 
 ## Mods
