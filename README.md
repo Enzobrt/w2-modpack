@@ -51,7 +51,7 @@ Semilla: Worldcraft: season 2
 - In control
 - Architectury
 - Cloth Config
-### Opcionales (Recomendados)
+### Mods opcionales (Muy recomendados)
 - Mouse Tweaks
 - EmoteCraft
 - AppleSkin
